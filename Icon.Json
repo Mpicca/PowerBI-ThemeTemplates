@@ -1,8 +1,9 @@
 {
 	"name": "Icon Template",
 	"icons": {
-    "name": {
-      "description": "My First Icon",
-      "url": "data:image/png;base64,"
-    }
+    		"name": {
+      		"description": "My First Icon",
+      		"url": "data:image/png;base64,"
+    		}
+	}
 }
